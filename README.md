@@ -1,5 +1,5 @@
 # NONGAAP-DEMO
-This is a project utilize both web scarping and python data processing with a deep understanding of 10k filings in SEC. It's intention is to find the correct reconciliation chart of earning release, and scrap all the corresponding accounts used for adjusted ebitda(Non-GAAP financial measures) in the chart, with amount that is most up to date.
+This is a project utilize both web scraping and python data processing with a deep understanding of 10k filings in SEC. It's intention is to find the correct reconciliation chart of earning release, and scrap all the corresponding accounts used for adjusted ebitda(Non-GAAP financial measures) in the chart, with amount that is most up to date.
 
 The other part is to find (if any) definition, justification and caveat used for such Non-GAAP financial measurements)
 
